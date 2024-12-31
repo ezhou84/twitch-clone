@@ -11,6 +11,12 @@
   "dependencies": {
     "@clerk/nextjs": "^6.9.6",
     "@clerk/themes": "^2.2.3",
+    "@prisma/client": "^6.1.0",
+    "@prisma/debug": "^6.1.0",
+    "@prisma/engines": "^6.1.0",
+    "@prisma/engines-version": "^6.2.0-8.aef02d5e376f57f540a4d5998c0fa73361a9c900",
+    "@prisma/fetch-engine": "^6.1.0",
+    "@prisma/get-platform": "^6.1.0",
     "@radix-ui/react-slot": "^1.1.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
@@ -20,7 +26,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.5.5",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -30,6 +37,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.2",
     "postcss": "^8",
+    "prisma": "^6.1.0",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
   }
