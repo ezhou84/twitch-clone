@@ -17,6 +17,7 @@
     "@prisma/engines-version": "^6.2.0-8.aef02d5e376f57f540a4d5998c0fa73361a9c900",
     "@prisma/fetch-engine": "^6.1.0",
     "@prisma/get-platform": "^6.1.0",
+    "@radix-ui/react-avatar": "^1.1.2",
     "@radix-ui/react-slot": "^1.1.1",
     "@radix-ui/react-tooltip": "^1.1.6",
     "class-variance-authority": "^0.7.1",
